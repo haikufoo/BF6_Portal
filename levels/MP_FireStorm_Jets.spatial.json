@@ -1,0 +1,929 @@
+{
+    "Portal_Dynamic": [
+        {
+            "name": "TEAM_1_JET",
+            "AltTeam": "TeamNeutral",
+            "ObjId": 11,
+            "InfantrySpawns": [
+                "TEAM_1_JET/SpawnPoint_1_1",
+                "TEAM_1_JET/SpawnPoint_1_2",
+                "TEAM_1_JET/SpawnPoint_1_3",
+                "TEAM_1_JET/SpawnPoint_1_4",
+                "TEAM_1_JET/SpawnPoint_1_5",
+                "TEAM_1_JET/SpawnPoint_1_6",
+                "TEAM_1_JET/SpawnPoint_1_7",
+                "TEAM_1_JET/SpawnPoint_1_8"
+            ],
+            "HQArea": "TEAM_1_JET/HQ_Team1",
+            "type": "HQ_PlayerSpawner",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "position": {
+                "x": -764.147,
+                "y": 238.344,
+                "z": 58.1727
+            },
+            "id": "TEAM_1_JET",
+            "linked": [
+                "HQArea",
+                "InfantrySpawns"
+            ]
+        },
+        {
+            "name": "HQ_Team1",
+            "type": "PolygonVolume",
+            "id": "TEAM_1_JET/HQ_Team1",
+            "height": 0,
+            "points": [
+                {
+                    "x": -674.35822,
+                    "y": 240.844,
+                    "z": 332.5627
+                },
+                {
+                    "x": -658.15592,
+                    "y": 240.844,
+                    "z": -163.2073
+                },
+                {
+                    "x": -954.90192,
+                    "y": 240.844,
+                    "z": -170.6703
+                },
+                {
+                    "x": -969.54392,
+                    "y": 240.844,
+                    "z": 318.0007
+                }
+            ]
+        },
+        {
+            "name": "SpawnPoint_1_1",
+            "type": "SpawnPoint",
+            "right": {
+                "x": 0.140781,
+                "y": 0,
+                "z": -0.990041
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.990041,
+                "y": 0,
+                "z": 0.140781
+            },
+            "position": {
+                "x": -753.8986,
+                "y": 238.452688,
+                "z": 103.6142
+            },
+            "id": "TEAM_1_JET/SpawnPoint_1_1"
+        },
+        {
+            "name": "SpawnPoint_1_2",
+            "type": "SpawnPoint",
+            "right": {
+                "x": 0.0328415,
+                "y": 0,
+                "z": -0.999461
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.999461,
+                "y": 0,
+                "z": 0.0328415
+            },
+            "position": {
+                "x": -754.60922,
+                "y": 238.452688,
+                "z": 90.56
+            },
+            "id": "TEAM_1_JET/SpawnPoint_1_2"
+        },
+        {
+            "name": "SpawnPoint_1_3",
+            "type": "SpawnPoint",
+            "right": {
+                "x": 0.162758,
+                "y": 0,
+                "z": -0.986666
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.986666,
+                "y": 0,
+                "z": 0.162758
+            },
+            "position": {
+                "x": -754.57235,
+                "y": 238.452688,
+                "z": 73.0866
+            },
+            "id": "TEAM_1_JET/SpawnPoint_1_3"
+        },
+        {
+            "name": "SpawnPoint_1_4",
+            "type": "SpawnPoint",
+            "right": {
+                "x": -0.0854512,
+                "y": 0,
+                "z": -0.996342
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.996342,
+                "y": 0,
+                "z": -0.0854512
+            },
+            "position": {
+                "x": -754.67306,
+                "y": 238.452688,
+                "z": 60.25012
+            },
+            "id": "TEAM_1_JET/SpawnPoint_1_4"
+        },
+        {
+            "name": "SpawnPoint_1_5",
+            "type": "SpawnPoint",
+            "right": {
+                "x": 0.140781,
+                "y": 0,
+                "z": -0.990041
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.990041,
+                "y": 0,
+                "z": 0.140781
+            },
+            "position": {
+                "x": -753.8986,
+                "y": 238.452688,
+                "z": 43.9649
+            },
+            "id": "TEAM_1_JET/SpawnPoint_1_5"
+        },
+        {
+            "name": "SpawnPoint_1_6",
+            "type": "SpawnPoint",
+            "right": {
+                "x": 0.0328415,
+                "y": 0,
+                "z": -0.999461
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.999461,
+                "y": 0,
+                "z": 0.0328415
+            },
+            "position": {
+                "x": -754.60922,
+                "y": 238.452688,
+                "z": 28.8674
+            },
+            "id": "TEAM_1_JET/SpawnPoint_1_6"
+        },
+        {
+            "name": "SpawnPoint_1_7",
+            "type": "SpawnPoint",
+            "right": {
+                "x": 0.162758,
+                "y": 0,
+                "z": -0.986666
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.986666,
+                "y": 0,
+                "z": 0.162758
+            },
+            "position": {
+                "x": -754.57235,
+                "y": 238.452688,
+                "z": 12.0814
+            },
+            "id": "TEAM_1_JET/SpawnPoint_1_7"
+        },
+        {
+            "name": "SpawnPoint_1_8",
+            "type": "SpawnPoint",
+            "right": {
+                "x": -0.0854512,
+                "y": 0,
+                "z": -0.996342
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.996342,
+                "y": 0,
+                "z": -0.0854512
+            },
+            "position": {
+                "x": -754.67306,
+                "y": 238.452688,
+                "z": -4.822
+            },
+            "id": "TEAM_1_JET/SpawnPoint_1_8"
+        },
+        {
+            "name": "TEAM_2_JET",
+            "Team": "Team2",
+            "AltTeam": "TeamNeutral",
+            "ObjId": 12,
+            "InfantrySpawns": [
+                "TEAM_2_JET/SpawnPoint_2_1",
+                "TEAM_2_JET/SpawnPoint_2_2",
+                "TEAM_2_JET/SpawnPoint_2_3",
+                "TEAM_2_JET/SpawnPoint_2_4",
+                "TEAM_2_JET/SpawnPoint_2_5",
+                "TEAM_2_JET/SpawnPoint_2_6",
+                "TEAM_2_JET/SpawnPoint_2_7",
+                "TEAM_2_JET/SpawnPoint_2_8"
+            ],
+            "HQArea": "TEAM_2_JET/HQ_Team2",
+            "type": "HQ_PlayerSpawner",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "position": {
+                "x": 597.728,
+                "y": 222.148,
+                "z": -257.335
+            },
+            "id": "TEAM_2_JET",
+            "linked": [
+                "HQArea",
+                "InfantrySpawns"
+            ]
+        },
+        {
+            "name": "HQ_Team2",
+            "type": "PolygonVolume",
+            "id": "TEAM_2_JET/HQ_Team2",
+            "height": 0,
+            "points": [
+                {
+                    "x": 687.51678,
+                    "y": 224.648,
+                    "z": 17.055
+                },
+                {
+                    "x": 703.71908,
+                    "y": 224.648,
+                    "z": -478.715
+                },
+                {
+                    "x": 406.97308,
+                    "y": 224.648,
+                    "z": -486.178
+                },
+                {
+                    "x": 392.33108,
+                    "y": 224.648,
+                    "z": 2.493
+                }
+            ]
+        },
+        {
+            "name": "SpawnPoint_2_1",
+            "type": "SpawnPoint",
+            "right": {
+                "x": 0.0376025,
+                "y": 0,
+                "z": 0.999294
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.999294,
+                "y": 0,
+                "z": 0.0376025
+            },
+            "position": {
+                "x": 606.91043,
+                "y": 222.256688,
+                "z": -264.5868
+            },
+            "id": "TEAM_2_JET/SpawnPoint_2_1"
+        },
+        {
+            "name": "SpawnPoint_2_2",
+            "type": "SpawnPoint",
+            "right": {
+                "x": 0.0544795,
+                "y": 0,
+                "z": 0.998515
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.998515,
+                "y": 0,
+                "z": 0.0544795
+            },
+            "position": {
+                "x": 606.92948,
+                "y": 222.256688,
+                "z": -281.1937
+            },
+            "id": "TEAM_2_JET/SpawnPoint_2_2"
+        },
+        {
+            "name": "SpawnPoint_2_3",
+            "type": "SpawnPoint",
+            "right": {
+                "x": -0.0282882,
+                "y": 0,
+                "z": 0.9996
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.9996,
+                "y": 0,
+                "z": -0.0282882
+            },
+            "position": {
+                "x": 608.5955,
+                "y": 222.256688,
+                "z": -294.4895
+            },
+            "id": "TEAM_2_JET/SpawnPoint_2_3"
+        },
+        {
+            "name": "SpawnPoint_2_4",
+            "type": "SpawnPoint",
+            "right": {
+                "x": -0.122944,
+                "y": 0,
+                "z": 0.992413
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.992413,
+                "y": 0,
+                "z": -0.122944
+            },
+            "position": {
+                "x": 607.8339,
+                "y": 222.256688,
+                "z": -305.5101
+            },
+            "id": "TEAM_2_JET/SpawnPoint_2_4"
+        },
+        {
+            "name": "SpawnPoint_2_5",
+            "type": "SpawnPoint",
+            "right": {
+                "x": 0.0376025,
+                "y": 0,
+                "z": 0.999294
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.999294,
+                "y": 0,
+                "z": 0.0376025
+            },
+            "position": {
+                "x": 606.91043,
+                "y": 222.256688,
+                "z": -204.1551
+            },
+            "id": "TEAM_2_JET/SpawnPoint_2_5"
+        },
+        {
+            "name": "SpawnPoint_2_6",
+            "type": "SpawnPoint",
+            "right": {
+                "x": 0.0544795,
+                "y": 0,
+                "z": 0.998515
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.998515,
+                "y": 0,
+                "z": 0.0544795
+            },
+            "position": {
+                "x": 606.92948,
+                "y": 222.256688,
+                "z": -218.5945
+            },
+            "id": "TEAM_2_JET/SpawnPoint_2_6"
+        },
+        {
+            "name": "SpawnPoint_2_7",
+            "type": "SpawnPoint",
+            "right": {
+                "x": -0.0282882,
+                "y": 0,
+                "z": 0.9996
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.9996,
+                "y": 0,
+                "z": -0.0282882
+            },
+            "position": {
+                "x": 608.5955,
+                "y": 222.256688,
+                "z": -232.7481
+            },
+            "id": "TEAM_2_JET/SpawnPoint_2_7"
+        },
+        {
+            "name": "SpawnPoint_2_8",
+            "type": "SpawnPoint",
+            "right": {
+                "x": -0.122944,
+                "y": 0,
+                "z": 0.992413
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.992413,
+                "y": 0,
+                "z": -0.122944
+            },
+            "position": {
+                "x": 607.8339,
+                "y": 222.256688,
+                "z": -245.0784
+            },
+            "id": "TEAM_2_JET/SpawnPoint_2_8"
+        },
+        {
+            "name": "CombatArea",
+            "CombatVolume": "CombatArea/CollisionPolygon3D",
+            "type": "CombatArea",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "position": {
+                "x": -58.2441,
+                "y": 93.4144,
+                "z": 34.2265
+            },
+            "id": "CombatArea",
+            "linked": [
+                "CombatVolume"
+            ]
+        },
+        {
+            "name": "CollisionPolygon3D",
+            "type": "PolygonVolume",
+            "id": "CombatArea/CollisionPolygon3D",
+            "height": 100,
+            "points": [
+                {
+                    "x": -670.2281,
+                    "y": 103.4144,
+                    "z": -1214.0215
+                },
+                {
+                    "x": -890.5601,
+                    "y": 103.4144,
+                    "z": -1216.2715
+                },
+                {
+                    "x": -1416.6591,
+                    "y": 103.4144,
+                    "z": -1211.7715
+                },
+                {
+                    "x": -1403.1891,
+                    "y": 103.4144,
+                    "z": -17.4549
+                },
+                {
+                    "x": -1407.3091,
+                    "y": 103.4144,
+                    "z": 565.2145
+                },
+                {
+                    "x": -1402.8191,
+                    "y": 103.4144,
+                    "z": 911.4495
+                },
+                {
+                    "x": -1411.8091,
+                    "y": 103.4144,
+                    "z": 1077.8185
+                },
+                {
+                    "x": -393.6451,
+                    "y": 103.4144,
+                    "z": 1077.3185
+                },
+                {
+                    "x": 319.0599,
+                    "y": 103.4144,
+                    "z": 1086.3085
+                },
+                {
+                    "x": 582.1089,
+                    "y": 103.4144,
+                    "z": 1075.0685
+                },
+                {
+                    "x": 1470.1809,
+                    "y": 103.4144,
+                    "z": 1070.5685
+                },
+                {
+                    "x": 1467.4009,
+                    "y": 103.4144,
+                    "z": 195.8085
+                },
+                {
+                    "x": 1469.9209,
+                    "y": 103.4144,
+                    "z": -454.8735
+                },
+                {
+                    "x": 1469.9209,
+                    "y": 103.4144,
+                    "z": -668.4605
+                },
+                {
+                    "x": 1474.8309,
+                    "y": 103.4144,
+                    "z": -1209.1215
+                },
+                {
+                    "x": 618.2399,
+                    "y": 103.4144,
+                    "z": -1213.6115
+                },
+                {
+                    "x": 242.7769,
+                    "y": 103.4144,
+                    "z": -1222.6115
+                },
+                {
+                    "x": -166.4101,
+                    "y": 103.4144,
+                    "z": -1222.6115
+                },
+                {
+                    "x": -366.7101,
+                    "y": 103.4144,
+                    "z": -1218.5115
+                }
+            ]
+        },
+        {
+            "name": "FiringRange_WallPanel_01",
+            "type": "FiringRange_WallPanel_01",
+            "right": {
+                "x": 5.27139,
+                "y": -5.5154e-08,
+                "z": 359.961
+            },
+            "up": {
+                "x": -0.625051,
+                "y": 9.98044,
+                "z": 0.00915345
+            },
+            "front": {
+                "x": -99.7937,
+                "y": -6.25118,
+                "z": 1.46141
+            },
+            "position": {
+                "x": -1376.9,
+                "y": 383.994,
+                "z": -1184.85
+            },
+            "id": "FiringRange_WallPanel_01"
+        },
+        {
+            "name": "FiringRange_WallPanel_04",
+            "type": "FiringRange_WallPanel_01",
+            "right": {
+                "x": 5.27139,
+                "y": -5.5154e-08,
+                "z": 359.961
+            },
+            "up": {
+                "x": -0.625051,
+                "y": 9.98044,
+                "z": 0.00915345
+            },
+            "front": {
+                "x": -99.7937,
+                "y": -6.25118,
+                "z": 1.46141
+            },
+            "position": {
+                "x": 1424.45,
+                "y": 383.994,
+                "z": -1184.85
+            },
+            "id": "FiringRange_WallPanel_04"
+        },
+        {
+            "name": "FiringRange_WallPanel_02",
+            "type": "FiringRange_WallPanel_01",
+            "right": {
+                "x": 450,
+                "y": -0.0513094,
+                "z": -0.00161764
+            },
+            "up": {
+                "x": 0.00114019,
+                "y": 10,
+                "z": -0.00600119
+            },
+            "front": {
+                "x": 0.000366319,
+                "y": 0.0600119,
+                "z": 100
+            },
+            "position": {
+                "x": -1376.91,
+                "y": 383.994,
+                "z": -1195.52
+            },
+            "id": "FiringRange_WallPanel_02"
+        },
+        {
+            "name": "FiringRange_WallPanel_03",
+            "type": "FiringRange_WallPanel_01",
+            "right": {
+                "x": 450,
+                "y": -0.0513094,
+                "z": -0.00161764
+            },
+            "up": {
+                "x": 0.00114019,
+                "y": 10,
+                "z": -0.00600119
+            },
+            "front": {
+                "x": 0.000366319,
+                "y": 0.0600119,
+                "z": 100
+            },
+            "position": {
+                "x": -1376.91,
+                "y": 383.994,
+                "z": 1054.24
+            },
+            "id": "FiringRange_WallPanel_03"
+        },
+        {
+            "name": "FiringRange_Floor_02",
+            "type": "FiringRange_Floor_02",
+            "right": {
+                "x": -2.62268e-07,
+                "y": 0,
+                "z": 6
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -3,
+                "y": 0,
+                "z": -1.31134e-07
+            },
+            "position": {
+                "x": 603.457,
+                "y": 221.742,
+                "z": -256.319
+            },
+            "id": "FiringRange_Floor_02"
+        },
+        {
+            "name": "FiringRange_Floor_03",
+            "type": "FiringRange_Floor_02",
+            "right": {
+                "x": -2.62268e-07,
+                "y": 0,
+                "z": 6
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -3,
+                "y": 0,
+                "z": -1.31134e-07
+            },
+            "position": {
+                "x": -757.331,
+                "y": 238.025,
+                "z": 48.2427
+            },
+            "id": "FiringRange_Floor_03"
+        },
+        {
+            "name": "FiringRange_NumberTwo",
+            "type": "FiringRange_NumberTwo_01",
+            "right": {
+                "x": -0.659429,
+                "y": 0,
+                "z": 9.97824
+            },
+            "up": {
+                "x": 0,
+                "y": 10,
+                "z": 0
+            },
+            "front": {
+                "x": -9.97824,
+                "y": 0,
+                "z": -0.659429
+            },
+            "position": {
+                "x": 592.848,
+                "y": 214.199,
+                "z": -217.493
+            },
+            "id": "FiringRange_NumberTwo"
+        },
+        {
+            "name": "FiringRange_NumberOne",
+            "type": "FiringRange_NumberOne_01",
+            "right": {
+                "x": -0.369925,
+                "y": 0,
+                "z": -9.99316
+            },
+            "up": {
+                "x": 0,
+                "y": 10,
+                "z": 0
+            },
+            "front": {
+                "x": 9.99316,
+                "y": 0,
+                "z": -0.369925
+            },
+            "position": {
+                "x": -743.765,
+                "y": 230.417,
+                "z": 16.1099
+            },
+            "id": "FiringRange_NumberOne"
+        }
+    ],
+    "Static": [
+        {
+            "name": "MP_FireStorm_Terrain",
+            "type": "MP_FireStorm_Terrain",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "id": "Static/MP_FireStorm_Terrain"
+        },
+        {
+            "name": "MP_FireStorm_Assets",
+            "type": "MP_FireStorm_Assets",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "id": "Static/MP_FireStorm_Assets"
+        }
+    ]
+}
